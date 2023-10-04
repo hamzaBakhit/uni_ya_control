@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426096482148",
+    "project_id": "uni-ya-server",
+    "storage_bucket": "uni-ya-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426096482148:android:789588f23e59f1bd7acc71",
+        "android_client_info": {
+          "package_name": "com.uniya63.uni_ya_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426096482148-kubr3jh1jpa4m6sd3d375o1brtr37pnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbesp-51CeSPbbsG3pn65XsCRzBa8ES3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426096482148-kubr3jh1jpa4m6sd3d375o1brtr37pnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
